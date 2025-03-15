@@ -1,0 +1,1 @@
+--create table employee_details (EmployeeId serial, Firstname varchar(50), LastName varchar(50), Email varchar(100), PhoneNumber varchar(15), HireDate Date, Salary Decimal(10,2), DepartmentID int, IsActive boolean, JobTittle varchar(100))
